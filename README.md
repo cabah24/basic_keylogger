@@ -1,4 +1,5 @@
 Keylogger Ético en Python
+
 Este proyecto es un keylogger ético que he desarrollado en Python usando la librería pynput. La idea de este mini proyecto es registrar las pulsaciones de teclas en un sistema, pero siempre en un entorno controlado y de manera ética. Lo hice con fines educativos, para aprender cómo funcionan los keyloggers y cómo podemos protegernos contra ellos.
 
 ¿Qué es un Keylogger?
